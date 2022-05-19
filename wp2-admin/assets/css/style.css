@@ -1,0 +1,68 @@
+.image #h-logo{
+    width: 100px;
+    height: 100px;
+}
+#table-distro_filter {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+#table-distro_lengthMenu{
+    margin-left: 20px !important;
+}
+
+table{
+    border-bottom: none !important;
+}
+
+.button-ubah{
+    color: #343A40;
+    font-weight: 500;
+    background-color: rgba(0, 0, 0, 0);
+    border-color: #343A40;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    padding: 4px 13px;
+    margin: 3px 0px;
+    transition: 0.3s;
+}
+.button-ubah:hover{
+    color: #fff;
+    background-color: #343A40;
+}
+
+.button-batal{
+    color: #F4F6F9;
+    font-weight: 500;
+    background-color: #343A40;
+    border-color: #343A40;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    padding: 4px 13px;
+    margin: 3px 0px;
+    transition: 0.3s;
+}
+.button-batal:hover{
+    color: #F4F6F9;
+    background-color: #0b0c0c;
+    border-color: #0b0c0c;
+
+}
+.button-hapus{
+    color: #fff;
+    background-color: #860707;
+    border-color: #860707;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 4px;
+    padding: 4px 15px;
+    margin: 3px 0px;
+    transition: 0.3s;
+
+}
+.button-hapus:hover{
+    background-color: #500b0b;
+    border-color: #500b0b;
+
+}

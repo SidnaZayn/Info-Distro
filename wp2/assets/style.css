@@ -1,0 +1,46 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #313030;
+  }
+  
+  a {
+    color: #ff5821;
+  }
+  
+  a:hover {
+    color: #ff7e54;
+    text-decoration: none;
+  }
+  
+  h1, h2, h3, h4, h5, h6 {
+    font-family: "Raleway", sans-serif;
+  }
+
+  /*jumbotron*/
+
+  .jumbotron{
+    background: url('jumbotron.jpg') center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-bottom: 100px;
+  }
+
+  .jumbotron h1{
+    text-transform: uppercase;
+    color: #000;
+    padding-top: 5px;
+  }
+
+  .jumbotron h3{
+    color: #000;
+    padding-bottom: 5px;
+
+  }
+
+  .jumbotron-text{
+    background-color: #fff;
+    padding-left: -100px;
+    padding-right: -100px;
+  }
+  
